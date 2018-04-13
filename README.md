@@ -35,4 +35,4 @@ in the following way:
 
 
 Please, report suggestions/comments/bugs to<br>
-case-logic@hotmail.it.com
+case-logic@hotmail.it
