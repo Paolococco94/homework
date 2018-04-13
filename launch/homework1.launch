@@ -1,0 +1,5 @@
+<launch>
+    <node name="publisher" pkg="homework1" type="publisher" required = "true"/>
+    <node name="select" pkg="homework1" type="select" output="screen" required = "true" />
+    <node name="print" pkg="homework1" type="print" output="screen" />
+</launch>
