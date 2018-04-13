@@ -34,7 +34,11 @@ in the following way:
 
 
 To run the source code, clone the "homework1 repository" using the url https://github.com/Paolococco94/homework.git.
-To facilitate the execution. From the shell write roslaunch <package> <launch file> in the local directory where you have deposited the sources
+To facilitate the execution. From the shell write: 
+$ cd catkin_ws
+$ catkin_make --pkg homework1
+$ source /home/catkin_ws/devel/setup.bash
+$ roslaunch <package> <launch file> 
 
 
 
