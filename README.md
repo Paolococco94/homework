@@ -33,6 +33,10 @@ in the following way:
 • 'c' will show only the degree course
 
 
+To run the source code, clone the "homework1 repository" using the url https://github.com/Paolococco94/homework.git.
+To facilitate the execution. From the shell write roslaunch <package> <launch file> in the local directory where you have deposited the sources
+
+
 
 Please, report suggestions/comments/bugs to<br>
 case-logic@hotmail.it
