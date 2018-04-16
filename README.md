@@ -29,7 +29,7 @@ the program is executed.The node that allows you to select from
 in the following way:
 • Typing 'a' will print the entire message
 • 'n' will only show the name
-• 'and' will show only the age
+• 'c' will show only the age
 • 'c' will show only the degree course
 
 
