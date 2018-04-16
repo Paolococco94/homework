@@ -5,7 +5,7 @@ A.Y. 2017/2018<br>
 University of Verona (Italy)
 
 ![laboratorio ciberfisico homework_ros](https://github.com/Paolococco94/homework/blob/master/images/ROS_industrial.png)
-![laboratorio ciberfisico exit_homework_ros](exit_homework.jpg)
+![laboratorio ciberfisico exit_homework_ros](https://github.com/Paolococco94/homework/blob/master/images/exit_homework.png)
 
 Homework is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
