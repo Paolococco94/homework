@@ -4,7 +4,7 @@ This file is distributed under the terms of the GNU Lesser General Public Licens
 A.Y. 2017/2018<br>
 University of Verona (Italy)
 
-![laboratorio ciberfisico homework_ros](ROS_industrial.jpg)
+![laboratorio ciberfisico homework_ros](https://github.com/Paolococco94/homework/blob/master/images/ROS_industrial.png)
 ![laboratorio ciberfisico exit_homework_ros](exit_homework.jpg)
 
 Homework is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
