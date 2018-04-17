@@ -12,6 +12,8 @@
 #include <sstream>
 
 
+
+
 int main(int argc, char **argv){
   ros::init(argc, argv, "publisher");
   ros::NodeHandle n;
@@ -26,7 +28,7 @@ int main(int argc, char **argv){
 	        chatter_pub.publish(msg);
                 ros::spinOnce();
 		loop_rate.sleep();
-	        }
+	  }
 
   return 0;
 

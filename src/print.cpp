@@ -66,7 +66,8 @@ void check(std::string dato,std::string comando){
 	
         
 	else if  (comando.compare(zz)==0){
-		ros::shutdown();
+			ROS_INFO("EXIT PROGRAM\n");			
+			ros::shutdown();
 	}
 
 	else

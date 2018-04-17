@@ -13,7 +13,7 @@
 #include "std_msgs/String.h"
 #include <iostream>       // std::cout
 #include <string>         // std::string
-char scelta;
+std::string scelta;
 
 void stampaMenu (){
   std::cout << "\n";
@@ -41,7 +41,7 @@ int main(int argc, char **argv){
 	while (ros::ok()){
 	stampaMenu();
 		std::cin >> scelta;
-		ROS_INFO("hai selezionato %c",scelta);
+		ROS_INFO("hai selezionato %s",scelta.c_str());
 		std_msgs::String msg2;
 		std::stringstream ss2;
 		ss2 << scelta;
@@ -56,8 +56,7 @@ int main(int argc, char **argv){
 		
 		loop_rate.sleep();
 		
-		
-		if(scelta=='Z'){
+		if(scelta=="Z"){
 		ros::shutdown();
 		}		
   }
@@ -66,5 +65,3 @@ int main(int argc, char **argv){
 return 0;
 
 }
-
-
