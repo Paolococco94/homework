@@ -37,7 +37,7 @@ To facilitate the execution. From the shell write:
 $ cd catkin_ws
 $ catkin_make --pkg homework1
 $ source /home/catkin_ws/devel/setup.bash
-$ roslaunch "<package> <launch file>" 
+$ roslaunch "package launch_file" 
  so: 
 $ roslaunch homework1 homework1.launch
 
